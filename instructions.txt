@@ -1,0 +1,27 @@
+Automation Engineer Claroty's Task
+In this task, you'll demonstrate your automation skills. Best of luck!
+Important Notes:
+• Use Object-Oriented Programming (OOP) principles in your solution.
+• Ensure that all actions are logged using a logger in the BusinessLogic 
+(BL) layer.
+Task Details:
+1. Objective: Write a Python script to fetch the current Bitcoin Price 
+Index (BPI) from a public API.
+2. API: Use the CoinDesk API at 
+https://api.coinbase.com/v2/prices/BTC-USD/spot to retrieve the 
+current BPI.
+Requirements:
+• The script should perform an HTTP GET request to the API endpoint.
+• Extract the current Bitcoin price from the API response.
+• Collect and save the Bitcoin price in USD every minute to a JSON 
+file.
+• After collecting data for an hour, generate a graph of the Bitcoin Price 
+Index (BPI).
+• Send an email using your Gmail account or any SMTP server with the 
+maximum Bitcoin price for the last hour and the generated graph.
+Results:
+As you finish the task, you will be required to send us the following:
+1. The Python code archived in a ZIP file.
+2. The received email (inbox) screenshot.
+3. The graph output screenshot (timestamp, BPI).
+4. The JSON output file

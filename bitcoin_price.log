@@ -1,0 +1,145 @@
+2025-09-22 11:56:50,121 - INFO - Fetched Bitcoin price: 112765.525 USD
+2025-09-22 12:02:31,200 - INFO - Starting data collection for one hour.
+2025-09-22 12:02:31,656 - INFO - Fetched Bitcoin price: 112715.725 USD
+2025-09-22 12:02:31,656 - INFO - Saved price at 2025-09-22 12:02:31: 112715.725 USD
+2025-09-22 12:03:31,860 - INFO - Fetched Bitcoin price: 112748.835 USD
+2025-09-22 12:03:31,861 - INFO - Saved price at 2025-09-22 12:03:31: 112748.835 USD
+2025-09-22 12:04:32,044 - INFO - Fetched Bitcoin price: 112699.615 USD
+2025-09-22 12:04:32,044 - INFO - Saved price at 2025-09-22 12:04:32: 112699.615 USD
+2025-09-22 12:05:32,246 - INFO - Fetched Bitcoin price: 112698.025 USD
+2025-09-22 12:05:32,247 - INFO - Saved price at 2025-09-22 12:05:32: 112698.025 USD
+2025-09-22 12:06:32,712 - INFO - Fetched Bitcoin price: 112653.885 USD
+2025-09-22 12:06:32,712 - INFO - Saved price at 2025-09-22 12:06:32: 112653.885 USD
+2025-09-22 12:07:32,909 - INFO - Fetched Bitcoin price: 112650.635 USD
+2025-09-22 12:07:32,909 - INFO - Saved price at 2025-09-22 12:07:32: 112650.635 USD
+2025-09-22 12:08:33,091 - INFO - Fetched Bitcoin price: 112665.685 USD
+2025-09-22 12:08:33,092 - INFO - Saved price at 2025-09-22 12:08:33: 112665.685 USD
+2025-09-22 12:09:33,541 - INFO - Fetched Bitcoin price: 112674.985 USD
+2025-09-22 12:09:33,541 - INFO - Saved price at 2025-09-22 12:09:33: 112674.985 USD
+2025-09-22 12:10:33,747 - INFO - Fetched Bitcoin price: 112648.63 USD
+2025-09-22 12:10:33,747 - INFO - Saved price at 2025-09-22 12:10:33: 112648.63 USD
+2025-09-22 12:11:34,203 - INFO - Fetched Bitcoin price: 112635.005 USD
+2025-09-22 12:11:34,203 - INFO - Saved price at 2025-09-22 12:11:34: 112635.005 USD
+2025-09-22 12:12:34,689 - INFO - Fetched Bitcoin price: 112668.265 USD
+2025-09-22 12:12:34,689 - INFO - Saved price at 2025-09-22 12:12:34: 112668.265 USD
+2025-09-22 12:13:35,185 - INFO - Fetched Bitcoin price: 112577.235 USD
+2025-09-22 12:13:35,185 - INFO - Saved price at 2025-09-22 12:13:35: 112577.235 USD
+2025-09-22 12:14:35,668 - INFO - Fetched Bitcoin price: 112537.685 USD
+2025-09-22 12:14:35,669 - INFO - Saved price at 2025-09-22 12:14:35: 112537.685 USD
+2025-09-22 12:15:36,127 - INFO - Fetched Bitcoin price: 112508.035 USD
+2025-09-22 12:15:36,127 - INFO - Saved price at 2025-09-22 12:15:36: 112508.035 USD
+2025-09-22 12:16:36,322 - INFO - Fetched Bitcoin price: 112594.05 USD
+2025-09-22 12:16:36,323 - INFO - Saved price at 2025-09-22 12:16:36: 112594.05 USD
+2025-09-22 12:17:36,507 - INFO - Fetched Bitcoin price: 112585.675 USD
+2025-09-22 12:17:36,507 - INFO - Saved price at 2025-09-22 12:17:36: 112585.675 USD
+2025-09-22 12:18:36,969 - INFO - Fetched Bitcoin price: 112559.175 USD
+2025-09-22 12:18:36,969 - INFO - Saved price at 2025-09-22 12:18:36: 112559.175 USD
+2025-09-22 12:19:37,181 - INFO - Fetched Bitcoin price: 112553.645 USD
+2025-09-22 12:19:37,182 - INFO - Saved price at 2025-09-22 12:19:37: 112553.645 USD
+2025-09-22 12:20:37,644 - INFO - Fetched Bitcoin price: 112502.61 USD
+2025-09-22 12:20:37,645 - INFO - Saved price at 2025-09-22 12:20:37: 112502.61 USD
+2025-09-22 12:21:38,107 - INFO - Fetched Bitcoin price: 112517.28 USD
+2025-09-22 12:21:38,107 - INFO - Saved price at 2025-09-22 12:21:38: 112517.28 USD
+2025-09-22 12:22:38,317 - INFO - Fetched Bitcoin price: 112499.845 USD
+2025-09-22 12:22:38,318 - INFO - Saved price at 2025-09-22 12:22:38: 112499.845 USD
+2025-09-22 12:23:38,547 - INFO - Fetched Bitcoin price: 112465.995 USD
+2025-09-22 12:23:38,548 - INFO - Saved price at 2025-09-22 12:23:38: 112465.995 USD
+2025-09-22 12:24:39,034 - INFO - Fetched Bitcoin price: 112437.215 USD
+2025-09-22 12:24:39,035 - INFO - Saved price at 2025-09-22 12:24:39: 112437.215 USD
+2025-09-22 12:25:39,514 - INFO - Fetched Bitcoin price: 112450.665 USD
+2025-09-22 12:25:39,515 - INFO - Saved price at 2025-09-22 12:25:39: 112450.665 USD
+2025-09-22 12:26:39,986 - INFO - Fetched Bitcoin price: 112444.39 USD
+2025-09-22 12:26:39,987 - INFO - Saved price at 2025-09-22 12:26:39: 112444.39 USD
+2025-09-22 12:27:40,195 - INFO - Fetched Bitcoin price: 112471.955 USD
+2025-09-22 12:27:40,196 - INFO - Saved price at 2025-09-22 12:27:40: 112471.955 USD
+2025-09-22 12:28:40,661 - INFO - Fetched Bitcoin price: 112497.26 USD
+2025-09-22 12:28:40,662 - INFO - Saved price at 2025-09-22 12:28:40: 112497.26 USD
+2025-09-22 12:29:41,123 - INFO - Fetched Bitcoin price: 112489.995 USD
+2025-09-22 12:29:41,124 - INFO - Saved price at 2025-09-22 12:29:41: 112489.995 USD
+2025-09-22 12:30:41,307 - INFO - Fetched Bitcoin price: 112483.09 USD
+2025-09-22 12:30:41,308 - INFO - Saved price at 2025-09-22 12:30:41: 112483.09 USD
+2025-09-22 12:31:41,484 - INFO - Fetched Bitcoin price: 112499.19 USD
+2025-09-22 12:31:41,484 - INFO - Saved price at 2025-09-22 12:31:41: 112499.19 USD
+2025-09-22 12:32:41,693 - INFO - Fetched Bitcoin price: 112343.805 USD
+2025-09-22 12:32:41,693 - INFO - Saved price at 2025-09-22 12:32:41: 112343.805 USD
+2025-09-22 12:33:42,165 - INFO - Fetched Bitcoin price: 112342.855 USD
+2025-09-22 12:33:42,166 - INFO - Saved price at 2025-09-22 12:33:42: 112342.855 USD
+2025-09-22 12:34:42,656 - INFO - Fetched Bitcoin price: 112529.445 USD
+2025-09-22 12:34:42,657 - INFO - Saved price at 2025-09-22 12:34:42: 112529.445 USD
+2025-09-22 12:35:42,856 - INFO - Fetched Bitcoin price: 112492.655 USD
+2025-09-22 12:35:42,857 - INFO - Saved price at 2025-09-22 12:35:42: 112492.655 USD
+2025-09-22 12:36:43,040 - INFO - Fetched Bitcoin price: 112476.555 USD
+2025-09-22 12:36:43,040 - INFO - Saved price at 2025-09-22 12:36:43: 112476.555 USD
+2025-09-22 12:37:43,505 - INFO - Fetched Bitcoin price: 112424.455 USD
+2025-09-22 12:37:43,506 - INFO - Saved price at 2025-09-22 12:37:43: 112424.455 USD
+2025-09-22 12:38:43,698 - INFO - Fetched Bitcoin price: 112371.445 USD
+2025-09-22 12:38:43,698 - INFO - Saved price at 2025-09-22 12:38:43: 112371.445 USD
+2025-09-22 12:39:44,178 - INFO - Fetched Bitcoin price: 112355.385 USD
+2025-09-22 12:39:44,179 - INFO - Saved price at 2025-09-22 12:39:44: 112355.385 USD
+2025-09-22 12:40:44,651 - INFO - Fetched Bitcoin price: 112371.605 USD
+2025-09-22 12:40:44,652 - INFO - Saved price at 2025-09-22 12:40:44: 112371.605 USD
+2025-09-22 12:41:45,117 - INFO - Fetched Bitcoin price: 112357.59 USD
+2025-09-22 12:41:45,117 - INFO - Saved price at 2025-09-22 12:41:45: 112357.59 USD
+2025-09-22 12:42:45,575 - INFO - Fetched Bitcoin price: 112358.405 USD
+2025-09-22 12:42:45,576 - INFO - Saved price at 2025-09-22 12:42:45: 112358.405 USD
+2025-09-22 12:43:46,025 - INFO - Fetched Bitcoin price: 112386.005 USD
+2025-09-22 12:43:46,025 - INFO - Saved price at 2025-09-22 12:43:46: 112386.005 USD
+2025-09-22 12:44:46,218 - INFO - Fetched Bitcoin price: 112389.325 USD
+2025-09-22 12:44:46,218 - INFO - Saved price at 2025-09-22 12:44:46: 112389.325 USD
+2025-09-22 12:45:46,414 - INFO - Fetched Bitcoin price: 112396.75 USD
+2025-09-22 12:45:46,415 - INFO - Saved price at 2025-09-22 12:45:46: 112396.75 USD
+2025-09-22 12:46:46,607 - INFO - Fetched Bitcoin price: 112453.885 USD
+2025-09-22 12:46:46,608 - INFO - Saved price at 2025-09-22 12:46:46: 112453.885 USD
+2025-09-22 12:47:46,809 - INFO - Fetched Bitcoin price: 112346.415 USD
+2025-09-22 12:47:46,809 - INFO - Saved price at 2025-09-22 12:47:46: 112346.415 USD
+2025-09-22 12:48:47,268 - INFO - Fetched Bitcoin price: 112353.715 USD
+2025-09-22 12:48:47,269 - INFO - Saved price at 2025-09-22 12:48:47: 112353.715 USD
+2025-09-22 12:49:47,750 - INFO - Fetched Bitcoin price: 112354.805 USD
+2025-09-22 12:49:47,751 - INFO - Saved price at 2025-09-22 12:49:47: 112354.805 USD
+2025-09-22 12:50:48,209 - INFO - Fetched Bitcoin price: 112323.685 USD
+2025-09-22 12:50:48,210 - INFO - Saved price at 2025-09-22 12:50:48: 112323.685 USD
+2025-09-22 12:51:48,669 - INFO - Fetched Bitcoin price: 112313.955 USD
+2025-09-22 12:51:48,670 - INFO - Saved price at 2025-09-22 12:51:48: 112313.955 USD
+2025-09-22 12:52:48,865 - INFO - Fetched Bitcoin price: 112250.065 USD
+2025-09-22 12:52:48,865 - INFO - Saved price at 2025-09-22 12:52:48: 112250.065 USD
+2025-09-22 12:53:49,059 - INFO - Fetched Bitcoin price: 112265.82 USD
+2025-09-22 12:53:49,060 - INFO - Saved price at 2025-09-22 12:53:49: 112265.82 USD
+2025-09-22 12:54:49,252 - INFO - Fetched Bitcoin price: 112371.175 USD
+2025-09-22 12:54:49,252 - INFO - Saved price at 2025-09-22 12:54:49: 112371.175 USD
+2025-09-22 12:55:49,450 - INFO - Fetched Bitcoin price: 112411.305 USD
+2025-09-22 12:55:49,451 - INFO - Saved price at 2025-09-22 12:55:49: 112411.305 USD
+2025-09-22 12:56:49,493 - INFO - Fetched Bitcoin price: 112473.335 USD
+2025-09-22 12:56:49,494 - INFO - Saved price at 2025-09-22 12:56:49: 112473.335 USD
+2025-09-22 12:57:49,988 - INFO - Fetched Bitcoin price: 112412.175 USD
+2025-09-22 12:57:49,989 - INFO - Saved price at 2025-09-22 12:57:49: 112412.175 USD
+2025-09-22 12:58:50,171 - INFO - Fetched Bitcoin price: 112398.725 USD
+2025-09-22 12:58:50,172 - INFO - Saved price at 2025-09-22 12:58:50: 112398.725 USD
+2025-09-22 12:59:50,346 - INFO - Fetched Bitcoin price: 112370.745 USD
+2025-09-22 12:59:50,347 - INFO - Saved price at 2025-09-22 12:59:50: 112370.745 USD
+2025-09-22 13:00:50,554 - INFO - Fetched Bitcoin price: 112467.455 USD
+2025-09-22 13:00:50,554 - INFO - Saved price at 2025-09-22 13:00:50: 112467.455 USD
+2025-09-22 13:01:50,757 - INFO - Fetched Bitcoin price: 112413.975 USD
+2025-09-22 13:01:50,758 - INFO - Saved price at 2025-09-22 13:01:50: 112413.975 USD
+2025-09-22 13:02:50,772 - INFO - Saved all collected data to bitcoin_prices.json
+2025-09-22 13:26:12,734 - INFO - Graph saved as bitcoin_bpi.png
+2025-09-22 16:01:24,026 - INFO - Graph saved as bitcoin_bpi.png
+2025-09-22 16:07:00,118 - INFO - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-464f5a2850csm201157145e9.19 - gsmtp')
+2025-09-22 16:10:47,612 - INFO - Failed to send email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-3fac7463f2fsm6578343f8f.39 - gsmtp')
+2025-09-22 16:15:05,302 - INFO - Email sent to adampro6@gmail.com with max price 112748.835 USD.
+2025-09-23 22:23:36,655 - INFO - Fetched Bitcoin price: 111878.97 USD
+2025-09-24 10:49:23,694 - INFO - Fetched Bitcoin price: 112655.56 USD
+2025-09-24 10:50:19,223 - INFO - Email sent to adampro6@gmail.com with max price 112748.835 USD.
+2025-09-24 11:04:01,295 - INFO - Graph saved as test_bitcoin_bpi.png
+2025-09-25 11:32:49,193 - INFO - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-46e33be3268sm23303135e9.11 - gsmtp')
+2025-09-25 11:32:49,452 - INFO - Fetched Bitcoin price: 111994.105 USD
+2025-09-25 11:32:50,092 - INFO - Graph saved as test_bitcoin_bpi.png
+2025-09-25 11:35:23,602 - INFO - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-46e2a9ac582sm69832095e9.9 - gsmtp')
+2025-09-25 11:35:23,865 - INFO - Fetched Bitcoin price: 111984.195 USD
+2025-09-25 11:35:24,530 - INFO - Graph saved as test_bitcoin_bpi.png
+2025-09-25 11:51:57,987 - INFO - Fetched Bitcoin price: 111800.83 USD
+2025-09-25 11:52:26,227 - INFO - Fetched Bitcoin price: 111797.985 USD
+2025-09-25 11:52:36,654 - INFO - Fetched Bitcoin price: 111747.185 USD
+2025-09-25 12:05:26,496 - INFO - Fetched Bitcoin price: 111747.995 USD
+2025-09-25 12:05:40,568 - INFO - Fetched Bitcoin price: 111763.145 USD
+2025-09-25 12:11:40,323 - INFO - Graph saved as test_bitcoin_bpi.png
+2025-09-25 12:13:59,075 - INFO - Email sent to adampro6@gmail.com with max price 112748.835 USD.
