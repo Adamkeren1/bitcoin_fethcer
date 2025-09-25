@@ -1,4 +1,4 @@
-Automation Engineer Claroty's Task
+Automation Engineer's Task
 In this task, you'll demonstrate your automation skills. Best of luck!
 Important Notes:
 • Use Object-Oriented Programming (OOP) principles in your solution.
@@ -24,4 +24,5 @@ As you finish the task, you will be required to send us the following:
 1. The Python code archived in a ZIP file.
 2. The received email (inbox) screenshot.
 3. The graph output screenshot (timestamp, BPI).
+
 4. The JSON output file
