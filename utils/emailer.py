@@ -43,4 +43,4 @@ class Emailer:
                 server.send_message(msg)
             self.logger.log(f"Email sent to {recipient_email} with max price {max_price} USD.")
         except Exception as e:
-            self.logger.log(f"Failed to send email: {e}")
+            self.logger.error(f"Failed to send email: {e}")
