@@ -10,16 +10,17 @@ class BitcoinPriceFetcher:
 
     def fetch_price(self):
         try:
+            self.logger.debug("Starting Bitcoin price fetch...")  # Debug info
             response = requests.get(self.api_url)
             response.raise_for_status()
             data = response.json()
             price = float(data['data']['amount'])
             assert isinstance(price, float), "Fetched price is not a float"
-            self.logger.log(f"Fetched Bitcoin price: {price} USD")
+            self.logger.info(f"Fetched Bitcoin price: {price} USD")  # Success
             return price
         except requests.exceptions.RequestException as e:
-            self.logger.log(f"Network error fetching Bitcoin price: {e}")
+            self.logger.error(f"Network error fetching Bitcoin price: {e}")  # Error
             return None
         except Exception as e:
-            self.logger.log(f"Unexpected error fetching Bitcoin price: {e}")
+            self.logger.error(f"Unexpected error fetching Bitcoin price: {e}")  # Error
             return None
